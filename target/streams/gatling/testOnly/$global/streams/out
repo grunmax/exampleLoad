@@ -1,0 +1,9 @@
+[0m[[0mdebug[0m] [0mForking tests - parallelism = false[0m
+[0m[[0mdebug[0m] [0mCreate a single-thread test executor[0m
+[0m[[0mdebug[0m] [0mRunner for io.gatling.sbt.GatlingFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(load.LoadScript, sbt.ForkMain$SubclassFingerscan@61d27975, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0mSimulation LoadScript successful.[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0minfo[0m] [0mSimulation(s) execution ended.[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	load.LoadScript[0m

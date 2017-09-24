@@ -1,0 +1,1 @@
+gatling:testOnly load.LoadScript
